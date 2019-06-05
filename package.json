@@ -1,0 +1,29 @@
+{
+  "name": "tablero_francisco_flores",
+  "version": "1.0.0",
+  "description": "Repaso del examen de Aplicaciones Web",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francisco-Flores/Repaso-Examen.git"
+  },
+  "keywords": [
+    "node",
+    "examen",
+    "repaso",
+    "github"
+  ],
+  "author": "Eduardo Flowers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Francisco-Flores/Repaso-Examen/issues"
+  },
+  "homepage": "https://github.com/Francisco-Flores/Repaso-Examen#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.1"
+  }
+}
