@@ -1,0 +1,44 @@
+body{
+    background-color: burlywood;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: cornflowerblue;
+}
+
+.tablero{
+    width: 600px;
+    height: 600px;
+    margin: auto;
+}
+
+.fila-casillas{
+    width: 100%;
+    height: 12.5%;
+}
+
+.casilla-negra{
+    width: 12.5%;
+    height: 100%;
+    background-color: black;
+    float: left;
+}
+
+.casilla-blanca{
+    width: 12.5%;
+    height: 100%;
+    background-color: whitesmoke;
+    float: left;
+}
+
+footer{
+    text-align: right;
+}
+
+h3{
+    color: cornflowerblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.boton{
+    margin:auto;
+}
